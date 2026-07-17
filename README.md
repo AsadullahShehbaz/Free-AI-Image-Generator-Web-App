@@ -1,7 +1,7 @@
 <!-- [![AI Image Generator](https://youtube.com)](https://youtube.com) -->
 
 <a href="https://youtu.be/G5XC3Ltpf_8" target="_blank">
-  <img src="data/image.png" alt="Watch the video" width="480" height="360" />
+  <img src="data/image.png" alt="Watch the video" />
 </a>
 
 
