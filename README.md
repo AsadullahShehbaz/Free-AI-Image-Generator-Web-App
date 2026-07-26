@@ -1,11 +1,11 @@
 <!-- [![AI Image Generator](https://youtube.com)](https://youtube.com) -->
 
 <a href="https://youtu.be/G5XC3Ltpf_8" target="_blank">
-  <img src="data/image.png" alt="Watch the video" width="480" height="360" />
+  <img src="data/image.png" alt="Watch the video" />
 </a>
 
 
-# AI Image Generator
+# AI Image Generator Web App
 
 A full-stack AI Image Generation web application built with **React**, **Node.js**, **Express**, and **Cloudflare Workers AI (FLUX-2-Klein-9B)**. Users can generate high-quality AI images from natural language prompts and download the generated results.
 
@@ -40,8 +40,8 @@ A full-stack AI Image Generation web application built with **React**, **Node.js
 
 ```text
 ai-image-generator/
-├── client/
-│   ├── src/
+├── src/
+│   ├── App.jsx
 │   └── package.json
 ├── server/
 │   ├── index.js
@@ -64,7 +64,7 @@ API_TOKEN=your_cloudflare_api_token
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/ai-image-generator.git
+git clone https://github.com/asadullah-shehbaz/Free-AI-Image-Generator-Web-App.git
 cd ai-image-generator
 ```
 
@@ -126,9 +126,9 @@ Generate an image by entering a prompt, wait for the AI to create it, then downl
 
 ## YouTube Tutorial
 
-Watch the complete step-by-step tutorial on my YouTube channel.
+Watch the complete step-by-step tutorial on my YouTube channel. 
 
-**Channel:** ASADULLAH AI
+**Channel:** [Asadullah AI](https://www.youtube.com/@aiasadullah)
 
 ## License
 
